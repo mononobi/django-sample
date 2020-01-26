@@ -5,4 +5,3 @@ django-admin createsuperuser
 python mange.py runserver
 python mange.py makemigrations
 python mange.py migrate
-
