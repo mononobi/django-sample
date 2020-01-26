@@ -1,5 +1,6 @@
 from django.contrib import admin
-from prototype.api.models import Car
+from .models import Car, CarPrice
 
 
 admin.site.register(Car)
+admin.site.register(CarPrice)
